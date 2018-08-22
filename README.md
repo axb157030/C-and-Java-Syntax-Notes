@@ -1,5 +1,5 @@
 # C-and-Java-Syntax-Notes
-Various notes made studying ow to program in C++ and Java
+Various notes made studying how to program in C++. I heavily used the textbook, STARTING OUT WITH C++ FROM CONTROL STRUCTURES TO OBJECTS by Tony Gaddis when making these notes. I will update this to include more notes in Java 
 
 
 To increment a value means to increase it by 1 and to decrement a value means to decrease it by 1. They work on variables. 
